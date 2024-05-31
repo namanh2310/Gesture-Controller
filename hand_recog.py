@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import pandas as pd  
+# import pandas as pd  
 import os
 import numpy as np 
 import time
