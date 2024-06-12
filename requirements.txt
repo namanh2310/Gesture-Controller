@@ -1,3 +1,4 @@
+paho-mqtt
 pyaudio
 SpeechRecognition
 mediapipe==0.10.3
